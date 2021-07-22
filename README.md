@@ -15,7 +15,7 @@ This project is a solution to the first exercise on DOM Manipulation from a webs
 
 ## Live Demo
 
-[Live Demo Link]( https://natashac18.github.io/My-First-Website/)
+[Live Demo Link](https://natashac18.github.io/DOM-Manipulation-Exercise/)
 
 ## Tested With
 
@@ -39,10 +39,6 @@ Open index.html in your preferred browser
 :bust_in_silhouette: **Natasha Chitongo** 
 
 GitHub: [@natashac18](https://github.com/natashac18)
-
-## :handshake: Contributing
-
-Contributions, issues and feature requests are welcome!
 
 ## Show your support! 
 
