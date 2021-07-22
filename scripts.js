@@ -19,7 +19,7 @@ container.appendChild(elementTwo);
 
 let newDiv = document.createElement("div");
 newDiv.style.backgroundColor="pink";
-newDiv.style.border="black";
+newDiv.style.border="2px solid black";
 
 let heading1 = document.createElement("h1");
 heading1.textContent="I'm in a div";
