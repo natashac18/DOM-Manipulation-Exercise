@@ -6,7 +6,7 @@ This project is a solution to the first exercise on DOM Manipulation from a webs
 
 ## Screenshot
 
-![Screenshot](Screenshot.PNG)
+![Screenshot](ScreenshotNew.PNG)
 
 ## Built With
 
