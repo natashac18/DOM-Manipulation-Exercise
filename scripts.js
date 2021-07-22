@@ -15,3 +15,19 @@ let words = document.createTextNode("I'm a blue h3!");
 elementTwo.appendChild(words);
 container.appendChild(elementTwo);
 
+// Question 3
+
+let newDiv = document.createElement("div");
+newDiv.style.backgroundColor="pink";
+newDiv.style.border="black";
+
+let heading1 = document.createElement("h1");
+heading1.textContent="I'm in a div";
+
+let pText = document.createElement("p");
+pText.textContent= "ME TOO!"
+
+newDiv.appendChild(heading1);
+newDiv.appendChild(pText);
+
+container.appendChild(newDiv);
